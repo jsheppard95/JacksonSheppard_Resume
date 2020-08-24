@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=latex 2019.4.10)  4 MAY 2019 17:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.4.10)  24 AUG 2020 10:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**jackson_resume.tex
-(./jackson_resume.tex
+**JacksonSheppard-Resume.tex
+(./JacksonSheppard-Resume.tex
 LaTeX2e <2018-12-01>
 (./resume.cls
 Document Class: resume 2010/07/10 v0.9 Resume class
@@ -93,8 +93,8 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen112
 \Gm@dimlist=\toks16
 )
-(./jackson_resume.aux)
-\openout1 = `jackson_resume.aux'.
+No file JacksonSheppard-Resume.aux.
+\openout1 = `JacksonSheppard-Resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
 LaTeX Font Info:    ... okay on input line 33.
@@ -108,11 +108,10 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
 LaTeX Font Info:    ... okay on input line 33.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
 LaTeX Font Info:    ... okay on input line 33.
-
 *geometry* driver: auto-detecting
-*geometry* detected driver: dvips
+*geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
-* driver: dvips
+* driver: pdftex
 * paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -155,26 +154,26 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 33.
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--45
+Underfull \hbox (badness 10000) in paragraph at lines 41--47
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--57
+Underfull \hbox (badness 10000) in paragraph at lines 41--47
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--57
+Underfull \hbox (badness 10000) in paragraph at lines 54--60
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 67.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 69.
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 67.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 69.
 
 
 ! LaTeX Error: Something's wrong--perhaps a missing \item.
@@ -183,7 +182,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.82 \begin{itemize}
+l.83 \begin{itemize}
                     
 ? 
 
@@ -193,12 +192,12 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.90 \begin{itemize}
+l.91 \begin{itemize}
                     
 ? 
 [1
 
-]
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
 ! LaTeX Error: Something's wrong--perhaps a missing \item.
 
@@ -206,7 +205,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.98 \begin{itemize}
+l.99 \begin{itemize}
                     
 ? 
 
@@ -216,17 +215,38 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.105 \begin{itemize}
+l.107 \begin{itemize}
                      
 ? 
-[2] (./jackson_resume.aux) ) 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.114 \begin{itemize}
+                     
+? 
+[2] (./JacksonSheppard-Resume.aux) ) 
 Here is how much of TeX's memory you used:
- 1568 strings out of 492624
- 21892 string characters out of 6129578
- 96779 words of memory out of 5000000
+ 1567 strings out of 492623
+ 21920 string characters out of 6129552
+ 96744 words of memory out of 5000000
  5500 multiletter control sequences out of 15000+600000
  7639 words of font info for 27 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,4n,23p,880b,211s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,4n,23p,888b,274s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2019/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmti10.pfb>
+Output written on JacksonSheppard-Resume.pdf (2 pages, 78420 bytes).
+PDF statistics:
+ 31 PDF objects out of 1000 (max. 8388607)
+ 21 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on jackson_resume.dvi (2 pages, 4832 bytes).
