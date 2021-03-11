@@ -1,3 +1,6 @@
 # latex auto-generated files
 *.aux
 *.log
+
+# MacOS Stuff
+.DS_Store
