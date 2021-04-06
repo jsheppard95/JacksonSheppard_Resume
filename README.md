@@ -1,2 +1,2 @@
-# resume
-Jackson Sheppard Resume
+# JacksonSheppard_Resume
+Since version control is nice.
